@@ -1,0 +1,20 @@
+ [
+    {
+      "firstName": "fname1",
+      "middleName": "mname1",
+      "lastName": "lname1",
+      "employeeId": "1920261"
+    },
+    {
+      "firstName": "fname2",
+      "middleName": "mname2",
+      "lastName": "lname2",
+      "employeeId": "1920262"
+    },
+    {
+      "firstName": "fname3",
+      "middleName": "mname3",
+      "lastName": "lname3",
+      "employeeId": "1920263"
+    }
+  ]
